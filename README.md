@@ -47,7 +47,7 @@
   - [kanocz/lcvpn](<https://github.com/kanocz/lcvpn>) 轻量级的简单VPN
   - [bigeagle/gohop](<https://github.com/bigeagle/gohop>) 支持加密和流量混淆,反DPI审查
   - [GoVPN](<http://www.govpn.info/>) 非Github项目,同样支持加密和流量混淆及反DPI审查
-- [shadowsocks/shadowsocks-go](<https://github.com/shadowsocks/shadowsocks-go>) Golang 版 Shadowsocks
+  - [shadowsocks/shadowsocks-go](<https://github.com/shadowsocks/shadowsocks-go>) Golang 版 Shadowsocks
 - 数据库
 	
   - [cayleygraph/cayley](<https://github.com/cayleygraph/cayley>) 图形数据库
